@@ -9,5 +9,10 @@ public class Temp {
         }
     }
 
-    
+
+    public void commit() {
+        System.out.println("branch 1");
+    }
+
+
 }

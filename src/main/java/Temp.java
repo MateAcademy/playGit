@@ -6,8 +6,12 @@ public class Temp {
 
         if (1!=1 || 2!=3) {
             System.out.println("!!!");
+
+
+            System.out.println("изменения в ветке 2");
         }
     }
+
 
     
 }

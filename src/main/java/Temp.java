@@ -15,6 +15,9 @@ public class Temp {
 
     public void commit() {
         System.out.println("branch 1");
+        System.out.println("branch dev2");
+        System.out.println("branch dev2");
+        System.out.println("branch dev2");
     }
 
 

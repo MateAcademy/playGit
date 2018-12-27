@@ -6,14 +6,20 @@ public class Temp {
 
         if (1!=1 || 2!=3) {
             System.out.println("!!!");
+
+
+            System.out.println("изменения в ветке 2");
         }
     }
 
 
     public void commit() {
-
         System.out.println("branch 1");
-        System.out.println("branch 2");
+        System.out.println("branch dev2");
+        System.out.println("branch dev2");
+        System.out.println("branch dev2");
+        System.out.println("branch dev3 с dev2");
+
     }
 
 

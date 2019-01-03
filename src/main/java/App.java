@@ -23,6 +23,7 @@ public class App {
         it.remove();
 
        System.out.println(arr.toString());
+
        
     }
 
